@@ -12,7 +12,6 @@ key-word-2
 value-2
 [...]
 
-
 key-word-2
 value-2
 key-word-invalid
