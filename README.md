@@ -24,3 +24,4 @@ key-word-invalid
 Not found.
 ```
 ###### Read more [here](https://github.com/Binary-Hackers/42_Subjects/blob/master/02_Rushes/hotrace.pdf)
+###### Read more [here](https://cdn.intra.42.fr/pdf/pdf/36001/fr.subject.pdf)
