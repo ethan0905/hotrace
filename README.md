@@ -1,4 +1,4 @@
-# hotrace
+# hotrace 🔥🔥
 ## Subject
 You need to create a search engine, that will work using a 2 steps process:
 * Step 1: It will read on the stdin, and store for every keyword, his value in the memory.  
