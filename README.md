@@ -1,7 +1,11 @@
 # hotrace
 ## Subject
-You must create a small 2D game where a dolphin
-escapes earth after eating some fish. Or any hero
-collects any valuables before leaving the place.
-You will use 2d view (top-down or profile)
+You need to create a search engine, that will work using a 2 steps process:
+* Step 1: It will read on the stdin, following this format:  
+```
+key-word-1
+value-1
+key-word-2
+value-2
+```
 ###### Read more [here](https://github.com/Binary-Hackers/42_Subjects/blob/master/02_Rushes/hotrace.pdf)
