@@ -1,5 +1,9 @@
 # hotrace 🔥🔥
 ## Subject
+Coding a search engine is not that hard, but coding an efficent one, is a far more complicated task.  
+It has been years that Google, Yahoo, Bing and more are engaging themselves in a battle of efficiency.  
+A battle where everyone is in a mad rush : the HotRace.
+
 You need to create a search engine, that will work using a 2 steps process:
 * Step 1: It will read on the stdin, and store for every keyword, his value in the memory.  
 * Step 2: When it finds a '\n', the algorithm need to proceed the phase 2, meaning that from now your algorithm is gonna look for the word  
